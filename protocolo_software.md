@@ -38,3 +38,9 @@ Este protocolo pretende guiar a los colaboradores en el desarrollo de software h
 ## 6. Adoptar estilo del código
 
 ## 7. Redactar viñeta para su publicación en la página web del LANCIS
+
+## 8. Publicar en repositorios oficiales de software
+
+* * *
+# Referencias
+* * *
