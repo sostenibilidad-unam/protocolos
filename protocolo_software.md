@@ -43,4 +43,6 @@ Este protocolo pretende guiar a los colaboradores en el desarrollo de software h
 
 * * *
 # Referencias
+[Ten simple rules for effective computational research](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003506)
+
 * * *
