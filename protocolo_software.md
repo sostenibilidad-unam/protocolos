@@ -28,10 +28,12 @@ Este protocolo pretende guiar a los colaboradores en el desarrollo de software h
 ## 1. Crear un repositorio en GitHub
 
 ## 2. Generar un Read.me
+El Read.me deberá responder a las preguntas qué? y cómo?. deberá presentar con claridad el objetivo y alcance del software, las variables y unidades que lo componen, así como información sobre cómo instalar el software y cómo correrlo.
 
 ## 3. Adoptar la licencia GPL3
 
 ## 4. Adoptar el esquema de nombramiento de carpetas y archivos
+Es importante asegurarse de que los datos que acompañan el software sean de libre acceso. En caso de que los datos tengan restricciones, crear datos "dummy" que reporuzcan la estructura de los datos de entrada y que sean suficientes para correr el modelo.
 
 ## 5. Documentar el código
 
