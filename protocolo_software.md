@@ -37,8 +37,17 @@ El uso de un sistema como [Sphinx](http://www.sphinx-doc.org/en/stable/) ayuda a
 
 ## 6. Adoptar estilo del código
 
+### 6.1 En Python
 Programas escritos en Python deben considerar la guía sugerida en [PEP 8](https://www.python.org/dev/peps/pep-0008/).
 
+### 6.2 En R
+
+Acá hay tres guías de estilo para el lenguaje R:
+
+ - [La que recomienda la página de RStudio](http://adv-r.had.co.nz/Style.html)
+ - [La guía de estilo de Google](https://google.github.io/styleguide/Rguide.xml)
+ - [Acá la guía de Tidyverse](http://style.tidyverse.org/)
+ 
 ## (a) Nombres de los archivos:
 Los nombres de los archivos deberán ser claros y relevantes y llevar la extensión .R
 Ej. CORRECTO :  calcular_encharcamientos.R
