@@ -16,28 +16,28 @@ Este protocolo pretende guiar a los colaboradores en el desarrollo de software h
 
 * * *
 
-# Materiales, equipos y reactivos
-
-**Materiales**
-
-* Cuenta de usuario activa en GitHub
-
-* * *
-# Actividades y responsables
+# Actividades
 
 ## 1. Crear un repositorio en GitHub
 
-## 2. Generar un Read.me
-El Read.me deberá responder a las preguntas qué? y cómo?. deberá presentar con claridad el objetivo y alcance del software, las variables y unidades que lo componen, así como información sobre cómo instalar el software y cómo correrlo.
+## 2. Generar un Readme
+El Readme.md deberá responder a las preguntas ¿qué? y ¿cómo?. Deberá presentar con claridad el objetivo y alcance del software, las variables y unidades que lo componen, así como información sobre cómo instalar el software y cómo correrlo. Debe escribirse en formato Markdown o Restructured Text.
 
 ## 3. Adoptar la licencia GPL3
+En [este video](https://youtu.be/YGbMbF0mdPU) Stephen Fry explica por qué software libre.
 
 ## 4. Adoptar el esquema de nombramiento de carpetas y archivos
+
+## 4.1 Aportar datos de prueba
 Es importante asegurarse de que los datos que acompañan el software sean de libre acceso. En caso de que los datos tengan restricciones, crear datos "dummy" que reporuzcan la estructura de los datos de entrada y que sean suficientes para correr el modelo.
 
 ## 5. Documentar el código
 
+El uso de un sistema como [Sphinx](http://www.sphinx-doc.org/en/stable/) ayuda a crear documentación a partir del código fuente.
+
 ## 6. Adoptar estilo del código
+
+Programas escritos en Python deben considerar la guía sugerida en [PEP 8](https://www.python.org/dev/peps/pep-0008/).
 
 ## (a) Nombres de los archivos:
 Los nombres de los archivos deberán ser claros y relevantes y llevar la extensión .R
