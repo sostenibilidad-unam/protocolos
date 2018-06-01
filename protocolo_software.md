@@ -20,6 +20,15 @@ Este protocolo pretende guiar a los colaboradores en el desarrollo de software h
 
 ## 1. Crear un repositorio en GitHub
 
+Version control systems (VCSs) offer an easy way to store and back up not only the current version of your code that you are working on but also every previous version of the code (in what's known as a repository). This not only saves you from having to keep multiple copies of the same file but also allows you to “roll back” to an older “working” version of the code if things go wrong. VCSs also allow you to share material between multiple machines, operating systems, and more importantly, users in a simple and robust manner.
+
+[Version Control with Git](http://swcarpentry.github.io/git-novice/), un tutorial creado por [Software Carpentry](https://software-carpentry.org/), una organización especializada en educación para cómputo científico.
+
+[Guía de 15 minutos en GitHub](https://try.github.io/levels/1/challenges/1).
+
+[Guías y manuales](https://git-scm.com/doc) en la página oficial del protocolo Git.
+
+
 ## 2. Generar un Readme
 El Readme.md deberá responder a las preguntas ¿qué? y ¿cómo?. Deberá presentar con claridad el objetivo y alcance del software, las variables y unidades que lo componen, así como información sobre cómo instalar el software y cómo correrlo. Debe escribirse en formato Markdown o Restructured Text.
 
