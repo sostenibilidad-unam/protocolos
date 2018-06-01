@@ -88,4 +88,4 @@ El de Perl CPAN.
 # Referencias
 [Ten simple rules for effective computational research](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003506)
 
-* * *
+[Scientific Utopia: I. Opening Scientific Communication](https://www.tandfonline.com/doi/abs/10.1080/1047840x.2012.692215)
