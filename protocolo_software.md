@@ -40,6 +40,8 @@ El uso de un sistema como [Sphinx](http://www.sphinx-doc.org/en/stable/) ayuda a
 ### 6.1 En Python
 Programas escritos en Python deben considerar la guía sugerida en [PEP 8](https://www.python.org/dev/peps/pep-0008/).
 
+En el editor [Atom](https://atom.io) hay un [plugin que verifica automáticamente el estilo](https://atom.io/packages/linter-python).
+
 ### 6.2 En R
 
 Acá hay tres guías de estilo para el lenguaje R:
