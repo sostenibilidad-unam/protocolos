@@ -37,6 +37,14 @@ El uso de un sistema como [Sphinx](http://www.sphinx-doc.org/en/stable/) ayuda a
 
 ## 6. Adoptar estilo del código
 
+Se sugiere incluir en cada archivo:
+
+ 1.	Comentarios sobre derechos de autor y la licencia (GPL)
+ 2.	Comentarios del autor
+ 3.	Descripción general del archivo
+ 4.	Descripción de las librerías
+ 5.	Definición de funciones
+
 ### 6.1 En Python
 Programas escritos en Python deben considerar la guía sugerida en [PEP 8](https://www.python.org/dev/peps/pep-0008/).
 
@@ -50,13 +58,9 @@ Acá hay tres guías de estilo para el lenguaje R:
  - [La guía de estilo de Google](https://google.github.io/styleguide/Rguide.xml)
  - [Acá la guía de Tidyverse](http://style.tidyverse.org/)
  
-Además se sugiere incluir en cada archivo:
+El paquete [lintr](https://cran.r-project.org/web/packages/lintr/index.html) automatiza la verificación del estilo en R.
 
- 1.	Comentarios sobre derechos de autor
- 2.	Comentarios del autor
- 3.	Descripción general del archivo
- 4.	Descripción de las librerías (library())
- 5.	Definición de funciones
+
 
 ## 7. Redactar viñeta para su publicación en la página web del LANCIS
 
