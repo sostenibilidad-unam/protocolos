@@ -33,6 +33,9 @@ Version control systems (VCSs) offer an easy way to store and back up not only t
 El Readme.md deberá responder a las preguntas ¿qué? y ¿cómo?. Deberá presentar con claridad el objetivo y alcance del software, las variables y unidades que lo componen, así como información sobre cómo instalar el software y cómo correrlo. Debe escribirse en formato Markdown o Restructured Text.
 
 ## 3. Adoptar la licencia GPL3
+
+Compartir libremente no sólo facilita el desarrollo de la ciencia a través de replicación, validación y detección de errores: también previene fraudes y otras malas prácticas a través de la transparencia.
+
 En [este video](https://youtu.be/YGbMbF0mdPU) Stephen Fry explica por qué software libre.
 
 ## 4. Adoptar el esquema de nombramiento de carpetas y archivos
