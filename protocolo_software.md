@@ -50,40 +50,13 @@ Acá hay tres guías de estilo para el lenguaje R:
  - [La guía de estilo de Google](https://google.github.io/styleguide/Rguide.xml)
  - [Acá la guía de Tidyverse](http://style.tidyverse.org/)
  
-## (a) Nombres de los archivos:
-Los nombres de los archivos deberán ser claros y relevantes y llevar la extensión .R
-Ej. CORRECTO :  calcular_encharcamientos.R
-      INCORRECTO : foo.R
-## (b) Identificadores: 
-La manera preferente de asignar nombres a las variables en con minúsculas y separados con un punto (nombre.variable). Los nombres de las funciones deben tener mayúsculas al inicio (NombreFuncion). 
-Las constantes se nombran como las funciones pero deben contener una k al inicio.
-Variables
-Ej. CORRECTO :  prom.enchar
-    INCORRECTO : prom_enchar
-Nombre de funciones
-Ej. CORRECTO :  CalcularPromedioEnchar
-    INCORRECTO : calcular_promedio_enchar
-Nombre de constantes
-Ej. CORRECTO :  kNombreConstante
-## (c) Longitud: 
-La longitud máxima por línea es de 80 caracteres
-## (d) Sangría: 
-Utilizar dos espacios. No utilizar tabulador. 
-## (e) Espacios: 
-Utilizar espacios alrededor de todos los operadores binarios (=, +, -,<-, etc.).
-No poner espacios antes de las comas, pero siempre habrá un espacio después de la coma
-Ej. CORRECTO :  total <- sum(x[ , 1])
-    INCORRECTO : total <- sum(x[ ,1])
-## (f) LLaves: 
-Una apertura de llaves nunca debe ir sola en una línea; un cierre de llave debe ir siempre en una línea independiente.
-## (g) Organización general y orden: 
-Si todos utilizan este esquema general de orden, se facilitará el entendimiento y legibilidad del código:
-1)	Comentarios sobre derechos de autor
-2)	Comentarios del autor
-3)	Descripción general del archivo
-4)	Descripción de las librerías (library())
-5)	Definición de funciones
+Además se sugiere incluir en cada archivo:
 
+ 1.	Comentarios sobre derechos de autor
+ 2.	Comentarios del autor
+ 3.	Descripción general del archivo
+ 4.	Descripción de las librerías (library())
+ 5.	Definición de funciones
 
 ## 7. Redactar viñeta para su publicación en la página web del LANCIS
 
