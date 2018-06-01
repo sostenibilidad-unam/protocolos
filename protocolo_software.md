@@ -60,7 +60,13 @@ Además se sugiere incluir en cada archivo:
 
 ## 7. Redactar viñeta para su publicación en la página web del LANCIS
 
+En el repositorio de la página del laboratorio hay varios [ejemplos de viñetas](https://github.com/sostenibilidad-unam/sostenibilidad-unam.github.io/tree/master/_showcase).
+
 ## 8. Publicar en repositorios oficiales de software
+
+El repositorio oficial de Python es el [Python Package Index](http://pypi.org).
+El de R es CRAN.
+El de Perl CPAN.
 
 * * *
 # Referencias
